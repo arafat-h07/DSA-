@@ -77,7 +77,6 @@ Each directory contains implementations and practice programs related to that pa
 
 ### Programming Languages
 
-* **C**
 * **C++**
 
 ### Tools
